@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./liberprecumpubl00englgoog_0008.png"; bbox 0 0 2100 3524; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 294 1383 583 1445">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 294 1383 583 1445">
+     <span class='ocr_line' id='line_1_1' title="bbox 294 1383 583 1445; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 294 1383 298 1392; x_wconf 83' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_2' title='bbox 419 1387 583 1445; x_wconf 92' lang='lat' dir='ltr'><strong>LIBER</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 58 1618 1046 1737">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 58 1618 1046 1737">
+     <span class='ocr_line' id='line_1_2' title="bbox 58 1618 1046 1737; baseline 0 -43"><span class='ocrx_word' id='word_1_3' title='bbox 58 1618 366 1694; x_wconf 86' lang='lat' dir='ltr'>PRECUM</span> <span class='ocrx_word' id='word_1_4' title='bbox 425 1618 917 1732; x_wconf 80' lang='lat' dir='ltr'>PUBLICARUM</span> <span class='ocrx_word' id='word_1_5' title='bbox 1042 1732 1046 1737; x_wconf 15' lang='lat'><strong><em>³</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 321 1893 683 1974">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 321 1893 683 1974">
+     <span class='ocr_line' id='line_1_3' title="bbox 321 1893 683 1974; baseline -0.017 -12"><span class='ocrx_word' id='word_1_6' title='bbox 321 1894 474 1965; x_wconf 56' lang='lat' dir='ltr'>&amp;famiae</span> <span class='ocrx_word' id='word_1_7' title='bbox 494 1893 683 1974; x_wconf 59' lang='lat' dir='ltr'>Anglitanae</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1054 3524">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1054 3524">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1054 3524; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1054 3524; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
